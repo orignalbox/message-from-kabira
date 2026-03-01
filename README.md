@@ -8,7 +8,7 @@ how it works: phones constantly look for wi-fi networks and broadcast their mac 
 
 after generating the text, the board instantly creates a few fake wi-fi networks. when the person looks at their phone's wi-fi menu, the network names form a short message or poem.
 
-<img width="620" height="700" alt="image" src="https://github.com/user-attachments/assets/e1969476-14fd-4a97-9fbb-a0184dea0190" />
+<img width="310" height="350" alt="image" src="https://github.com/user-attachments/assets/e1969476-14fd-4a97-9fbb-a0184dea0190" />
 
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/226a2875-6eba-4982-8295-ab06ea21a2a1" />
 
