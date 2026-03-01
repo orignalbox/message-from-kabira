@@ -1,6 +1,6 @@
 # message-from-kabira
 
-<img width="120" height="160" alt="image" src="https://github.com/user-attachments/assets/5b7a297a-750f-4129-8767-32517dddea72" />
+<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/5b7a297a-750f-4129-8767-32517dddea72" />
 
 
 This is a project that turns an esp32-s3 into a digital poet. it broadcasts short poems and quotes to people's phones through their wi-fi settings. no app needed.
@@ -10,7 +10,7 @@ after generating the text, the board instantly creates a few fake wi-fi networks
 
 
 ![Untitled](https://github.com/user-attachments/assets/e578e333-6f2b-4b20-bb3a-6d607aa52c4a)
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/226a2875-6eba-4982-8295-ab06ea21a2a1" />
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/226a2875-6eba-4982-8295-ab06ea21a2a1" />
 
 
 ### how it works
