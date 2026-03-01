@@ -1,0 +1,2 @@
+source /home/ogbox/projects/ESP/wuifi/build/gdbinit/symbols
+source /home/ogbox/projects/ESP/wuifi/build/gdbinit/connect
