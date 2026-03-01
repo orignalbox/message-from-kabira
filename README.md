@@ -1,7 +1,6 @@
 # message-from-kabira
-![Untitled](https://github.com/user-attachments/assets/0cb6d055-6e31-4f79-a4fa-09c0bf2e20cc)
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5b7a297a-750f-4129-8767-32517dddea72" />
+<img width="120" height="160" alt="image" src="https://github.com/user-attachments/assets/5b7a297a-750f-4129-8767-32517dddea72" />
 
 
 This is a project that turns an esp32-s3 into a digital poet. it broadcasts short poems and quotes to people's phones through their wi-fi settings. no app needed.
